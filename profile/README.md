@@ -1,23 +1,4 @@
-<div align="center">
-  <a href="https://stonebyte.io">
-    <img src="./stonebyte-avatar.png" alt="Stonebyte" width="96" height="96" />
-  </a>
-  <h1>Stonebyte</h1>
-  <p><strong>We build mobile, desktop and AI products — and take on select custom development.</strong></p>
-  <p>
-    <a href="https://stonebyte.io">Website</a>
-    &nbsp;·&nbsp;
-    <a href="#products">Products</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:hello@stonebyte.io">Contact</a>
-    &nbsp;·&nbsp;
-    <a href="https://x.com/stonebyteio">X</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/company/stonebyte">LinkedIn</a>
-  </p>
-</div>
-
-## About
+### We build mobile, desktop and AI products — and take on select custom development.
 
 Stonebyte is an independent software company registered in Wyoming, USA. We design and build our own mobile, desktop and AI products — focused tools that solve a real problem without the bloat. You talk directly to the people writing the code, and decisions take hours, not quarters.
 
@@ -34,8 +15,8 @@ Stonebyte is an independent software company registered in Wyoming, USA. We desi
 
 We take on custom development — mobile, desktop, web and AI integrations — from prototype to production, with clear scope and honest communication.
 
-Write to [hello@stonebyte.io](mailto:hello@stonebyte.io). Security issues: see our [security policy](https://github.com/stonebyteio/.github/blob/main/SECURITY.md).
+Write to [hello@stonebyte.io](mailto:hello@stonebyte.io) or find us on [LinkedIn](https://www.linkedin.com/company/stonebyte). Security issues: see our [security policy](https://github.com/stonebyteio/.github/blob/main/SECURITY.md).
 
 ---
 
-<sub>Stonebyte LLC · Sheridan, Wyoming, USA · Founded 2026 · <a href="https://stonebyte.io">stonebyte.io</a></sub>
+<sub>Stonebyte LLC · Wyoming, USA · Founded 2026</sub>
